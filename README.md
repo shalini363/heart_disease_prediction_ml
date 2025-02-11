@@ -47,7 +47,7 @@ This project explores **heart disease prediction** using various **machine learn
 
 1. **Clone this repository:** git clone https://github.com/shalini363/heart_disease_prediction_ml.git
    
-2. **Navigate to the project directory:** cd heart-disease-prediction
+2. **Navigate to the project directory:** cd heart_disease_prediction_ml
    
 
 3. **Launch Jupyter Notebook:** jupyter notebook heart_disease_prediction.ipynb
